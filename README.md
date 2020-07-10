@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm Gianluca Tarantino, a 17yo Italian developer and Pokémon player.
+
+- 🔭 Currently working on `Gosh` and some Computer Vision projects
+- 🌱 I’m currently learning Machine Learning and Deep Learning (Scikit and Tensorflow)
+- 📫 How to reach me: gianlutara@gmail.com or @GianlucaTarantino on Telegram
 
 <!--
 **GianlucaTarantino/GianlucaTarantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
