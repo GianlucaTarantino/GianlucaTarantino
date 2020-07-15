@@ -15,7 +15,7 @@
 - **Algorithm and Data Structures** (currently studying them, but I love this branch of Computer Science)
 
 I love problem solving and pretty much everything regarding Computer Science and videogames.
-
+Currently into Pokémon Millennium, biggest Nintendo community in Italy and one of the most important in Europe.
 You can see some of my project in my Github accounts and check my dotfiles in [this](https://github.com/GianlucaTarantino/GianlucaTarantino) repository
 
 <!--
