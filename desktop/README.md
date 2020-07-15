@@ -1,6 +1,6 @@
 ## Desktop Configuration
 
-![](https://github.com/GianlucaTarantino/GianlucaTarantino/blob/master/desktop/desktopPhoto.jpg?raw=true)
+![](https://github.com/GianlucaTarantino/GianlucaTarantino/blob/master/desktop/desktopPhoto.png?raw=true)
 
 I have a 1st Generation Thinkpad X1 Carbon. What to say? Fantastic computer.
 
