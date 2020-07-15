@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Machine Learning, Deep Learning (Scikit and Tensorflow) and Data Science
 - 📫 How to reach me: gianlutara@gmail.com or @GianlucaTarantino on Telegram
 
+You can see some of my project in my Github accounts and check my dotfiles in [this](https://github.com/GianlucaTarantino/GianlucaTarantino) repository
+
 <!--
 **GianlucaTarantino/GianlucaTarantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
