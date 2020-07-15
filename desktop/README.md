@@ -1,6 +1,6 @@
 ## Desktop Configuration
 
-![](./desktopPhoto.png)
+![](https://github.com/GianlucaTarantino/GianlucaTarantino/blob/master/desktop/desktopPhoto.jpg?raw=true)
 
 I use a Thinkpad X1 Carbon 1st Gen and EndeavourOS (Arch) and XFCE as DE, but I mainly use i3gaps as Windows manager, Polybar as status bar and Picom as composer.
 
