@@ -1,9 +1,20 @@
 ### Hi! I'm Gianluca Tarantino, a 17yo Italian developer and Pokémon player.
 
-- 📏 Skills: Web Development (MERN stack), Desktop Development (Electron, Golang), Mobile Development (Dart, Flutter)
 - 🔭 Currently working on `Gosh` and some Computer Vision projects
-- 🌱 I’m currently learning Machine Learning, Deep Learning (Scikit and Tensorflow) and Data Science
-- 📫 How to reach me: gianlutara@gmail.com or @GianlucaTarantino on Telegram
+- 🌱 I’m currently learning:
+  - Machine Learning and Data Science (Scikit, Tensorflow)
+  - Angular 
+  - Algorithm and Data Structures
+- 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](t.me/GianlucaTarantino) on Telegram
+
+### Skills
+- **Web Development**: MERN Stack (but I'm mostly a backend guy)
+- **Desktop Development**: Electron, Golang, C++, Rust
+- **Mobile Development**: Dart, Flutter
+- **Embedded Development**: C/C++ with Arduino and STM boards, Python with Raspberry Pi
+- **Algorithm and Data Structures** (currently studying them, but I love this branch of Computer Science)
+
+I love problem solving and pretty much everything regarding Computer Science.
 
 You can see some of my project in my Github accounts and check my dotfiles in [this](https://github.com/GianlucaTarantino/GianlucaTarantino) repository
 
