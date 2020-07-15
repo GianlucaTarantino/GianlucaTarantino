@@ -14,7 +14,7 @@
 - **Embedded Development**: C/C++ with Arduino and STM boards, Python with Raspberry Pi
 - **Algorithm and Data Structures** (currently studying them, but I love this branch of Computer Science)
 
-I love problem solving and pretty much everything regarding Computer Science.
+I love problem solving and pretty much everything regarding Computer Science and videogames.
 
 You can see some of my project in my Github accounts and check my dotfiles in [this](https://github.com/GianlucaTarantino/GianlucaTarantino) repository
 
