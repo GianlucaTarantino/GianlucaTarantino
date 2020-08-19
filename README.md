@@ -12,6 +12,7 @@
 - **Desktop Development**: Node.JS (Electron), Golang, C++
 - **Mobile Development**: Dart, Flutter
 - **Embedded Development**: C/C++ with Arduino and STM boards, Python with Raspberry Pi
+- **Object Oriented Programming and Functional Programming fundamentals**
 - **Algorithm and Data Structures** (currently studying them, but I love this branch of Computer Science)
 
 I love problem solving and pretty much everything regarding Computer Science and videogames.
