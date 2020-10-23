@@ -10,7 +10,7 @@
 ### Skills
 - **Web Development**: MERN Stack (but I'm mostly a backend guy)
 - **Desktop Development**: Node.JS (Electron), Golang, C++
-- **Mobile Development**: Dart, Flutter
+- **Mobile Development**: Dart, Flutter, React Native
 - **Embedded Development**: C/C++ with Arduino and STM boards, Python with Raspberry Pi
 - **Object Oriented Programming and Functional Programming fundamentals**
 - **Algorithm and Data Structures** (currently studying them, but I love this branch of Computer Science)
