@@ -1,7 +1,7 @@
 ### Hi! I'm Gianluca Tarantino, a 17yo Italian developer and Pokémon player.
 
 - 📏 Working for Pokémon Millennium
-- 🔭 Currently working on `NeatDB`, my Portfolio and some Computer Vision projects
+- 🔭 Currently working on `Databasetify`, my Portfolio and some Computer Vision projects
 - 🌱 I’m currently learning:
   - Machine Learning and Data Science (Scikit, Tensorflow)
   - Angular
