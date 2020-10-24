@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning:
   - Machine Learning and Data Science (Scikit, Tensorflow)
   - Angular
+  - Web Components
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
 
 ### Skills
