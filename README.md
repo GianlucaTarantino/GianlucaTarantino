@@ -8,7 +8,7 @@
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
 
 ### Skills
-- **Web Development**: MERN Stack (but I'm mostly a backend guy)
+- **Web Development**: I love Vanilla JS, but I know MERN Stack too (I'm mostly a backend guy)
 - **Desktop Development**: Node.JS (Electron), Golang, C++
 - **Mobile Development**: Dart, Flutter, React Native
 - **Embedded Development**: C/C++ with Arduino and STM boards, Python with Raspberry Pi
