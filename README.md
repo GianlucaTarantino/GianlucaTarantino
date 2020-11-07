@@ -2,7 +2,8 @@
 
 - 🔭 Currently working on some articles and some Computer Vision projects
 - 💾 I'm also a Maker! With experience on Arduino and Raspberry boards
-- 📏 Working for Pokémon Millennium
+- ✏️ Writing articles on Medium ([Gianluca Tarantino](https://gianlucatarantino.medium.com))
+- 📏 Working for [Pokémon Millennium](https://pokemonmillennium.net)
 - 🌱 I’m currently learning:
   - Machine Learning and Data Science (Scikit, Tensorflow)
   - Angular
