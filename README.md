@@ -1,4 +1,4 @@
-### Hi! I'm Gianluca Tarantino, a 17yo Italian developer and Pokémon player.
+## Hi! I'm Gianluca Tarantino, a 17 years old Italian developer and gamer.
 
 - 🔭 Currently working on some articles and some Computer Vision projects
 - 💾 I'm also a Maker! With experience on Arduino and Raspberry boards
@@ -6,19 +6,27 @@
 - 📏 Working for [Pokémon Millennium](https://pokemonmillennium.net)
 - 🌱 I’m currently learning:
   - Machine Learning and Data Science (Scikit, Tensorflow)
-  - Angular
   - Web Components
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
 
-[![Gianluca's github stats](https://github-readme-stats.vercel.app/api?username=GianlucaTarantino)](https://github.com/GianlucaTarantino)
-
 ### Skills
-- **Web Development**: I love Vanilla JS, but I know MERN Stack too (I'm mostly a backend guy)
+- **Web Development**: I love Vanilla JS, but I know MERN and MEAN Stack too (I'm mostly a backend guy)
 - **Desktop Development**: Node.JS (Electron), Golang, C++
 - **Mobile Development**: Dart, Flutter, React Native
 - **Embedded Development**: C/C++ with Arduino and STM boards, Python with Raspberry Pi
 - **Object Oriented Programming and Functional Programming fundamentals**
 - **Algorithm and Data Structures** (currently studying them, but I love this branch of Computer Science)
+
+### Tools
+I mainly use Visual Studio Code for writing code, with Pylint and ESLint as linters. My main operating system is ChromeOS, on a Thinkpad X1 Carbon 1st Gen. My development environment is very minimalistic and tidy, so I always try to have less things possible on my PC.
+
+### Articles
+
+<!-- DEVTO:START --> <!-- DEVTO:END -->
+
+### Stats
+
+[![Gianluca's github stats](https://github-readme-stats.vercel.app/api?username=GianlucaTarantino)](https://github.com/GianlucaTarantino)
 
 I love problem solving and pretty much everything regarding Computer Science and videogames.
 Currently into Pokémon Millennium, biggest Nintendo community in Italy and one of the most important in Europe.
