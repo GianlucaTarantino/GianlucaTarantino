@@ -10,6 +10,8 @@
   - Web Components
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
 
+[![Gianluca's github stats](https://github-readme-stats.vercel.app/api?username=GianlucaTarantino)](https://github.com/GianlucaTarantino)
+
 ### Skills
 - **Web Development**: I love Vanilla JS, but I know MERN Stack too (I'm mostly a backend guy)
 - **Desktop Development**: Node.JS (Electron), Golang, C++
