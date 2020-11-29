@@ -1,5 +1,8 @@
 ## Hi! I'm Gianluca Tarantino, a 17 years old Italian developer and gamer.
 
+I love problem solving and pretty much everything regarding Computer Science and videogames.
+Currently into [Pokémon Millennium](https://pokemonmillennium.net), biggest Nintendo community in Italy and one of the most important in Europe.
+
 - 🔭 Currently working on some articles and some Computer Vision projects
 - 💾 I'm also a Maker! With experience on Arduino and Raspberry boards
 - ✏️ Writing articles on Medium ([Gianluca Tarantino](https://gianlucatarantino.medium.com))
@@ -22,18 +25,11 @@ I mainly use Visual Studio Code for writing code, with Pylint and ESLint as lint
 
 ### Articles
 
-<!-- DEVTO:START -->
-- [Javascript, why I love it (and why I hate it)](https://dev.to/gianlucatarantino/javascript-why-i-love-it-and-why-i-hate-it-451h)
-- [My life as a developer, on ChromeOS](https://dev.to/gianlucatarantino/my-life-as-a-developer-on-chromeos-ocm)
-- [HTTP: what is it](https://dev.to/gianlucatarantino/http-what-is-it-and-why-everyone-uses-it-5c56)
-<!-- DEVTO:END -->
+<!-- DEVTO:START --> <!-- DEVTO:END -->
 
 ### Stats
 
 [![Gianluca's github stats](https://github-readme-stats.vercel.app/api?username=GianlucaTarantino)](https://github.com/GianlucaTarantino)
-
-I love problem solving and pretty much everything regarding Computer Science and videogames.
-Currently into Pokémon Millennium, biggest Nintendo community in Italy and one of the most important in Europe.
 
 <!--
 **GianlucaTarantino/GianlucaTarantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
