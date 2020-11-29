@@ -22,7 +22,11 @@ I mainly use Visual Studio Code for writing code, with Pylint and ESLint as lint
 
 ### Articles
 
-<!-- DEVTO:START --> <!-- DEVTO:END -->
+<!-- DEVTO:START -->
+- [Javascript, why I love it (and why I hate it)](https://dev.to/gianlucatarantino/javascript-why-i-love-it-and-why-i-hate-it-451h)
+- [My life as a developer, on ChromeOS](https://dev.to/gianlucatarantino/my-life-as-a-developer-on-chromeos-ocm)
+- [HTTP: what is it](https://dev.to/gianlucatarantino/http-what-is-it-and-why-everyone-uses-it-5c56)
+<!-- DEVTO:END -->
 
 ### Stats
 
