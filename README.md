@@ -20,6 +20,9 @@ Currently into [Pokémon Millennium](https://pokemonmillennium.net), biggest Nin
 - **Object Oriented Programming and Functional Programming fundamentals**
 - **Algorithm and Data Structures** (currently studying them, but I love this branch of Computer Science)
 
+### Projects
+- [**HTTCLI**](https://github.com/gianlucatarantino/httcli), a simple CLI to make HTTP Requests
+
 ### Tools
 I mainly use Visual Studio Code for writing code, with Pylint and ESLint as linters. My main operating system is ChromeOS, on a Thinkpad X1 Carbon 1st Gen. My development environment is very minimalistic and tidy, so I always try to have less things possible on my PC.
 
