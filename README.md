@@ -27,7 +27,7 @@ Currently into [Pokémon Millennium](https://pokemonmillennium.net), biggest Nin
 I mainly use Visual Studio Code for writing code, with Pylint and ESLint as linters. My main operating system is ChromeOS, on a Thinkpad X1 Carbon 1st Gen. My development environment is very minimalistic and tidy, so I always try to have less things possible on my PC.
 
 ### Articles
-
+My articles on [dev.to](https://dev.to/gianlucatarantino)
 <!-- DEVTO:START -->
 - [Javascript, why I love it (and why I hate it)](https://dev.to/gianlucatarantino/javascript-why-i-love-it-and-why-i-hate-it-451h)
 - [My life as a developer, on ChromeOS](https://dev.to/gianlucatarantino/my-life-as-a-developer-on-chromeos-ocm)
