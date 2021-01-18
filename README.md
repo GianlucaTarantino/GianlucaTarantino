@@ -1,9 +1,9 @@
 ## Hi! I'm Gianluca Tarantino, a 17 years old Italian developer and gamer.
 
 I love problem solving and pretty much everything regarding Computer Science and videogames.
-Currently into [Pokémon Millennium](https://pokemonmillennium.net), biggest Nintendo community in Italy and one of the most important in Europe.
+Currently into [Pokémon Millennium](https://pokemonmillennium.net), biggest Nintendo community in Italy.
 
-- 🔭 Currently working on some articles and some Computer Vision projects
+- 🔭 Currently working on Scrap and some Web Development projects
 - 💾 I'm also a Maker! With experience on Arduino and Raspberry boards
 - 📏 Working for [Pokémon Millennium](https://pokemonmillennium.net)
 - 🌱 I’m currently learning:
@@ -17,13 +17,13 @@ Currently into [Pokémon Millennium](https://pokemonmillennium.net), biggest Nin
 - **Mobile Development**: Dart, Flutter, React Native
 - **Embedded Development**: C/C++ with Arduino and STM boards, Python with Raspberry Pi
 - **Object Oriented Programming and Functional Programming fundamentals**
-- **Algorithm and Data Structures** (currently studying them, but I love this branch of Computer Science)
+- **Algorithm and Data Structures** (currently studying them)
 
 ### Projects
 - [**httcli**](https://github.com/gianlucatarantino/httcli), a simple CLI to make HTTP Requests
 
 ### Tools
-I mainly use Visual Studio Code for writing code, with Pylint and ESLint as linters. My main operating system is ChromeOS, on a Thinkpad X1 Carbon 1st Gen. My development environment is very minimalistic and tidy, so I always try to have less things possible on my PC.
+I mainly use Visual Studio Code for writing code, with Pylint and ESLint as linters. My main operating system is Clear Linux, on a Thinkpad X1 Carbon 1st Gen.
 
 ### Stats
 
