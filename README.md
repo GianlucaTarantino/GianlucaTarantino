@@ -1,10 +1,10 @@
-## Hi! I'm Gianluca Tarantino, a 17 years old Italian developer and videogames enthusiast
+## I'm Gianluca Tarantino, a 17 years old Italian developer and videogames enthusiast
 
 I love problem solving and pretty much everything regarding Computer Science and videogames.
-Currently doing something for [Pokémon Millennium](https://pokemonmillennium.net), biggest Nintendo community in Italy.
+Currently a developer for [Pokémon Millennium](https://pokemonmillennium.net), biggest Nintendo community in Italy.
 
 - 🔭 Currently working on Scrap and some Web Development projects
-- 📏 Working for [Pokémon Millennium](https://pokemonmillennium.net)
+- 📏 Developer for [Pokémon Millennium](https://pokemonmillennium.net)
 - 🌱 I’m currently learning:
   - Machine Learning and Data Science (Scikit, Tensorflow)
   - Web Components
