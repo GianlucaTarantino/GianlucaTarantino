@@ -3,7 +3,7 @@
 I love problem solving and pretty much everything regarding Computer Science and videogames.
 Currently a developer for [Pokémon Millennium](https://pokemonmillennium.net), biggest Nintendo community in Italy.
 
-- 🔭 Currently working on Cosmic Rays research and some Data Science projects
+- 🔭 Currently working on cosmic ray and particle detection research and some Data Science projects
 - 📏 Developer for [Pokémon Millennium](https://pokemonmillennium.net)
 - 🌱 I’m currently learning:
   - Machine Learning and Data Science (Scikit, Tensorflow)
