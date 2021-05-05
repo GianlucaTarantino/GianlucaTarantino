@@ -1,12 +1,15 @@
 ## I'm Gianluca Tarantino, a 17 years old Italian developer and videogames enthusiast
 
 I love problem solving and pretty much everything regarding Computer Science and videogames.
-Currently a developer for [Pokémon Millennium](https://pokemonmillennium.net), biggest Nintendo community in Italy.
 
 - 🔭 Currently working on cosmic ray and particle detection research and some Data Science projects
-- 📏 Developer for [Pokémon Millennium](https://pokemonmillennium.net)
-- 🌱 I’m currently learning:
-  - Machine Learning and Data Science (Scikit, Tensorflow)
+- 👨‍💻 Doing an internship at Sitael
+- ✨ Analyzing Cosmic Rays data for the Extreme Energy Event project
+- 🧑‍🎓 CyberChallenge competitor and student (Politecnico di Bari)
+- ⌨️ OII (Olimpiadi Italiane Informatica) competitor
+- 🎈 Developing for Pokémon Millenium as a hobby
+- 🌱 Currently learning
+  - Machine Learning and Data Science (Scikit, Tensorflow, CERN ROOT)
   - Web Components
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
 <!--
