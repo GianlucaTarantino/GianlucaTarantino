@@ -12,6 +12,7 @@ I love problem solving and pretty much everything regarding Computer Science.
   - Machine Learning and Data Science (Scikit, Tensorflow, CERN ROOT)
   - Web Components
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
+- 📄 My resume is available [here](https://github.com/GianlucaTarantino/gianlucatarantino.github.io/raw/master/files/downloads/CV.pdf)
 
 <!--
 ### Skills
