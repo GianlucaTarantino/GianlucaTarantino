@@ -1,17 +1,18 @@
-## I'm Gianluca Tarantino, a 17 years old Italian developer and videogames enthusiast
+## I'm Gianluca Tarantino, a 17 years old Italian developer
 
-I love problem solving and pretty much everything regarding Computer Science and videogames.
+I love problem solving and pretty much everything regarding Computer Science.
 
 - 🔭 Currently working on cosmic ray and particle detection research and some Data Science projects
 - 👨‍💻 Doing an internship at Sitael
-- ✨ Analyzing Cosmic Rays data for the Extreme Energy Event project
-- 🧑‍🎓 CyberChallenge competitor and student (Politecnico di Bari)
+- ✨ Analyzing Cosmic Rays data for the EEE project
+- 🧑‍🎓 Politecnico di Bari CyberChallenge competitor and student
 - ⌨️ OII (Olimpiadi Italiane Informatica) competitor
 - 🎈 Developing for Pokémon Millenium as a hobby
 - 🌱 Currently learning
   - Machine Learning and Data Science (Scikit, Tensorflow, CERN ROOT)
   - Web Components
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
+
 <!--
 ### Skills
 - **Web Development**: I love Vanilla JS, but I know MERN and MEAN Stack too (I'm mostly a backend guy)
