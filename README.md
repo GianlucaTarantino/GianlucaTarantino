@@ -6,7 +6,7 @@ I love problem solving and pretty much everything regarding Computer Science.
 - 👨‍💻 Doing an internship at Sitael
 - ✨ Analyzing Cosmic Rays data for the EEE project
 - 🧑‍🎓 Politecnico di Bari CyberChallenge competitor and student
-- ⌨️ OII (Olimpiadi Italiane Informatica) competitor
+- ⌨️ OII (Olimpiadi Italiane Informatica) national finals competitor 
 - 🎈 Developing for Pokémon Millenium as a hobby
 - 🌱 Currently learning
   - Machine Learning and Data Science (Scikit, Tensorflow, CERN ROOT)
