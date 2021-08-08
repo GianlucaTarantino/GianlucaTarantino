@@ -1,5 +1,8 @@
 ## Gianluca Tarantino
-### Intern @ Sitael S.P.A.
+
+**Developer**
+
+**Intern @ Sitael SPA**
 
 - 🔭 Currently doing some projects regarding algorithms and data science
 - ✨ Analyzing Cosmic Rays data for the EEE project
