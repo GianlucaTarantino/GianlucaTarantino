@@ -1,11 +1,9 @@
-## I'm Gianluca Tarantino, a 17 years old Italian developer
+## Gianluca Tarantino
+### Intern @ Sitael S.P.A.
 
-I love problem solving and pretty much everything regarding Computer Science.
-
-- 🔭 Currently working on cosmic ray and particle detection research and some Data Science projects
-- 👨‍💻 Doing an internship at Sitael
+- 🔭 Currently doing some projects regarding algorithms and data science
 - ✨ Analyzing Cosmic Rays data for the EEE project
-- 🧑‍🎓 Politecnico di Bari CyberChallenge competitor and student
+- 🧑‍🎓 Politecnico di Bari CyberChallenge student and competitor
 - ⌨️ OII (Olimpiadi Italiane Informatica) national finals competitor 
 - 🎈 Developing for Pokémon Millenium as a hobby
 - 🌱 Currently learning
