@@ -1,19 +1,35 @@
-## Gianluca Tarantino
+# Gianluca Tarantino
 
-**Developer**
+👨‍💻 **Developer | Intern at Sitael S.P.A.** 👨‍💻
 
-**Intern @ Sitael SPA**
-
+## Projects
 - 🔭 Currently doing some projects regarding algorithms and data science
 - ✨ Analyzing Cosmic Rays data for the EEE project
-- 🧑‍🎓 Politecnico di Bari CyberChallenge student and competitor
+
+## Skills
+- Algorithms, Data Structures, Object Oriented Programming and Functional Programming
+- Major knowledge of C, C++, JavaScript, Python, Golang, Java, Kotlin, Dart/Flutter, TCL/TK, ROOT
+- Minor knowledge of Rust, Ruby, C#, SQL
+- Machine Learning (Python, Tensorflow)
+- Data Science with Python (Numpy, Pandas, Matplotlib) and ROOT (C++ and PyRoot)
+- Computer Vision (OpenCV)
+- Microcontrollers programming (Arduino, STM32, MicroPython)
+- Competitive Coding (mainly in C++ and Python)
+- Web Development (HTML5/CSS3/JS, Node, React, Angular, Electron, MongoDB)
+
+## Learning
+- 💽 Machine Learning
+- 🧪 Data Science
+- 📷 Computer Vision
+- 📐 Web Components
+
+## Qualifications
+- 🎓 Politecnico di Bari CyberChallenge student and competitor
 - ⌨️ OII (Olimpiadi Italiane Informatica) national finals competitor 
-- 🎈 Developing for Pokémon Millenium as a hobby
-- 🌱 Currently learning
-  - Machine Learning and Data Science (Scikit, Tensorflow, CERN ROOT)
-  - Web Components
+
+# Contact
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
-- 📄 My resume is available [here](https://github.com/GianlucaTarantino/gianlucatarantino.github.io/raw/master/files/downloads/CV.pdf)
+- 📄 Contact me for my resume
 
 <!--
 ### Skills
