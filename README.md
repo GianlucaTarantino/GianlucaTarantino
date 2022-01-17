@@ -25,7 +25,7 @@
 
 ## Qualifications
 - 🎓 Politecnico di Bari CyberChallenge student and competitor
-- ⌨️ OII (Olimpiadi Italiane Informatica) national finals competitor 
+- ⌨️ Bronze Medal at OII (Olimpiadi Italiane Informatica)
 
 # Contact
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
