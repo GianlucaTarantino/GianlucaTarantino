@@ -26,8 +26,9 @@
 - 📐 Web Components
 
 ## Qualifications
-- 🎓 Politecnico di Bari CyberChallenge student and competitor
 - ⌨️ Bronze Medal at OII (Olimpiadi Italiane Informatica)
+- 🦾 Italian Olimpics of Robotics 2022 competitor
+- 🎓 Politecnico di Bari CyberChallenge student and competitor
 
 # Contact
 - 📫 How to reach me: gianlutara@gmail.com or [@GianlucaTarantino](https://t.me/GianlucaTarantino) on Telegram
