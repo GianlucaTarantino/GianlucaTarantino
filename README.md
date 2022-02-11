@@ -3,8 +3,10 @@
 👨‍💻 **Developer | Intern at Sitael S.P.A.** 👨‍💻
 
 ## Projects
-- 🔭 Currently doing some projects regarding algorithms and data science
-- ✨ Analyzing Cosmic Rays data for the EEE project
+- 🧠 A Brain/Computer Interface useful to control robotics (NIC2, Neural Interface for Control of Computers)
+- 🛰️ An AstroPI project to detect land and sea pollution from the space
+- ✋ Helping on a robot that implements the Malossi method
+- 🔭 other...
 
 ## Skills
 - Algorithms, Data Structures, Object Oriented Programming and Functional Programming
