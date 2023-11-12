@@ -1,6 +1,7 @@
 # Gianluca Tarantino
 
 **Computer Science Student @ Università degli Studi di Bari** 
+
 **AIT Functional Support @ SITAEL SpA**
 
 ## Projects
