@@ -23,7 +23,7 @@ Nothing! (at the moment...)
 - ⌨️ Bronze Medal at Olimpiadi Italiane di Informatica
 
 # Contact
-[mailto:gianlutara@gmail.com](gianlutara@gmail.com) or [@GianlucaTarantino](https://t.me/GianlucaTarantino)
+[gianlutara@gmail.com](mailto:gianlutara@gmail.com) or [@GianlucaTarantino](https://t.me/GianlucaTarantino)
 
 <!--
 **GianlucaTarantino/GianlucaTarantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
