@@ -13,13 +13,13 @@ Nothing! (at the moment...)
   - C, C++, Python, Javascript, Java, Golang, Dart, TCL/TK, Bash, Powershell
 - Web Development
 - Robotics and IoT
+- Functional Testing
 
 ## Certifications
 - AICA Coding
 - AICA Robotics
 - Arduino CTC 101
 - CyberChallenge
-- Functional Testing
   
 ## Prizes
 - ⌨️ Bronze Medal at Olimpiadi Italiane di Informatica
