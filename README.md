@@ -19,7 +19,8 @@ Nothing! (at the moment...)
 - AICA Robotics
 - Arduino CTC 101
 - CyberChallenge
-
+- Functional Testing
+  
 ## Prizes
 - ⌨️ Bronze Medal at Olimpiadi Italiane di Informatica
 
