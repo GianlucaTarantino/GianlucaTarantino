@@ -1,8 +1,7 @@
 # Gianluca Tarantino
 
-**Computer Science Student @ Università degli Studi di Bari** 
-
-**AIT Functional Support @ SITAEL SpA**
+AIT Functional Support @ SITAEL SpA \
+Computer Science Student @ Università degli Studi di Bari
 
 ## Projects
 Nothing! (at the moment...)
@@ -13,7 +12,6 @@ Nothing! (at the moment...)
   - C, C++, Python, Javascript, Java, Golang, Dart, TCL/TK, Bash, Powershell
 - Web Development
 - Robotics and IoT
-- Functional Testing
 
 ## Certifications
 - AICA Coding
@@ -25,7 +23,7 @@ Nothing! (at the moment...)
 - ⌨️ Bronze Medal at Olimpiadi Italiane di Informatica
 
 # Contact
-[gianlutara@gmail.com](mailto:gianlutara@gmail.com) or [@GianlucaTarantino](https://t.me/GianlucaTarantino)
+[gianlucatarantino@outlook.com](mailto:gianlucatarantino@outlook.com)
 
 <!--
 **GianlucaTarantino/GianlucaTarantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
