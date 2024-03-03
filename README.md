@@ -4,7 +4,8 @@ AIT Functional Support @ SITAEL SpA \
 Computer Science Student @ Università degli Studi di Bari
 
 ## Projects
-Nothing! (at the moment...)
+- cmib (library to add support for standard SCOS-2000 MIB to C)
+- cpus (library to add support for standard PUS functions and operations to C)
 
 ## Skills
 - Computer Science theory
