@@ -10,7 +10,7 @@ Computer Science Student @ Università degli Studi di Bari
 ## Skills
 - Computer Science theory
 - Programming
-  - C, C++, Python, Javascript, Java, Golang, Dart, TCL/TK, Bash, Powershell
+  - C, C++, Python, Javascript, Java, Golang, Dart, TCL/TK, Bash, Powershell, SQL
 - Web Development
 - Robotics and IoT
 
