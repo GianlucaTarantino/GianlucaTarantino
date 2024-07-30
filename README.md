@@ -24,7 +24,7 @@ Computer Science Student @ Università degli Studi di Bari
 - ⌨️ Bronze Medal at Olimpiadi Italiane di Informatica
 
 # Contact
-[gianlucatarantino@outlook.com](mailto:gianlucatarantino@outlook.com)
+[gianlutara@gmail.com](mailto:gianlutara@gmail.com)
 
 <!--
 **GianlucaTarantino/GianlucaTarantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
