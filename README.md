@@ -4,7 +4,7 @@ AIT Functional Support @ SITAEL SpA \
 Computer Science Student @ Università degli Studi di Bari
 
 ## Projects
-- cmib (library to add support for standard SCOS-2000 MIB to C)
+<!-- - cmib (library to add support for standard SCOS-2000 MIB to C) !-->
 - tclxl (tcl/tk package for manipulation of xls and xlsx files)
 
 ## Skills
